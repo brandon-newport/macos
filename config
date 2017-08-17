@@ -39,3 +39,6 @@ Host streamline
 Host chefnode
 	Hostname chefnode.life.church
 	User bnewport
+Host rstudio
+	Hostname rstudio.life.church
+	User bnewport
