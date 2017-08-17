@@ -1,0 +1,41 @@
+Host mychef
+	HostName mychef.localhost
+	User bnewport
+	Port 2222
+Host myscalr
+	HostName myscalr.localhost
+	User bnewport
+	Port 2223
+Host lachefws
+	HostName jdixon1.mylabserver.com
+	User user
+Host lachefsrvr
+	HostName jdixon2.mylabserver.com
+	User user
+Host lachefnd3
+	HostName jdixon3.mylabserver.com
+	User user
+Host lachefnd4
+	HostName jdixon4.mylabserver.com
+	User user
+Host lachefnd5
+	HostName jdixon5.mylabserver.com
+	User user
+Host es01
+	HostName apps-es01-prod.lifechurch.tv
+	User bnewport
+Host es02
+	HostName apps-es02-prod.lifechurch.tv
+	User bnewport
+Host es03
+	Hostname apps-es03-prod.lifechurch.tv
+	User bnewport
+Host gweb02
+	Hostname generic-web02-prd.lifechurch.tv
+	User bnewport
+Host streamline
+	Hostname streamline.lifechurch.tv
+	User bnewport
+Host chefnode
+	Hostname chefnode.life.church
+	User bnewport
